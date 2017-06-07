@@ -19,7 +19,7 @@ como etiqueta <u>,
 - la noticia 3 se cambió en totalidad, se añadió etiqueta spam donde se muestra la fecha
 - noticia 4 se mezclo estilo de dos plantillas diferentes
 - banner se añadio en la pagina 2
-- en la pagina de inicio se agruparon todas las noticias en donde se muestran con informacion brebe y
+- en la pagina de inicio se agruparon todas las noticias en donde se muestran con informacion breve y
 - a su vez se le añadieron enlaces directos a sus respectivas paginas
 - los articulos se separaron por parrafos
 - en el inicio donde esta la vista previa de las noticias se agrego otro <div class="row"> porque al tener mas de 3 <section>
