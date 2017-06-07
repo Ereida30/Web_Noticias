@@ -21,6 +21,7 @@ como etiqueta <u>,
 - banner se añadio en la pagina 2
 - en la pagina de inicio se agruparon todas las noticias en donde se muestran con informacion brebe y
 - a su vez se le añadieron enlaces directos a sus respectivas paginas
+- los articulos se separaron por parrafos
 
 cambios css
 - se cambió el color de fuente en noticias2
