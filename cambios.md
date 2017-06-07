@@ -9,7 +9,7 @@ Html
 7.	cambio total en el contenido
 8.	headers
 9.	articles
-10.	etiquetas de encabezado <h2>
+10.	etiquetas de encabezado <h2
 11.	titulos en el head se añadieron, haciendo referencia a la pagina en donde se está
 12.	Se adhirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
 13.	como etiqueta <u,
@@ -18,7 +18,7 @@ Html
 16.	en la pagina de inicio se agruparon todas las noticias en donde se muestran con informacion breve y
 17.	a su vez se le añadieron enlaces directos a sus respectivas paginas
 18.	los articulos se separaron por parrafos
-19.	en el inicio donde esta la vista previa de las noticias se agrego otro <div class="row"> porque al tener mas de 3 <section>
+19.	en el inicio donde esta la vista previa de las noticias se agrego otro <div class="row" porque al tener mas de 3 <section
 20.	se superponia una sobre la otra, con ésto se corrijió.
 Css
 21.	se cambio la fuente del texto en main4.css font family:Arial,
@@ -160,7 +160,7 @@ Html
 cambio total en el contenido
 123.	headers
 124.	articles
-125.	etiquetas de encabezado <h2>
+125.	etiquetas de encabezado <h2
 126.	titulos en el head se añadieron, haciendo referencia a la pagina en donde se está
 127.	Se adhirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
 128.	como etiqueta <u,
