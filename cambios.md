@@ -22,6 +22,8 @@ como etiqueta <u>,
 - en la pagina de inicio se agruparon todas las noticias en donde se muestran con informacion brebe y
 - a su vez se le añadieron enlaces directos a sus respectivas paginas
 - los articulos se separaron por parrafos
+- en el inicio donde esta la vista previa de las noticias se agrego otro <div class="row"> porque al tener mas de 3 <section>
+se superponia una sobre la otra, con ésto se corrijió.
 
 cambios css
 - se cambió el color de fuente en noticias2
