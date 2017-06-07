@@ -10,7 +10,7 @@ cambio total en el contenido de todas las paginas incluyeno
 - articles
 - etiquetas de encabezado <h2>
 - titulos en el head se añadieron, haciendo referencia a la pagina en donde se está
-- Se adirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
+- Se adhirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
 como etiqueta <u>,
 <strong>,
 <b>
