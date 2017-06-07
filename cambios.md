@@ -40,3 +40,4 @@ Se le cambió el color del título de la primera noticia a negro más puro
 - titulo de inicio se le añadió sombras con text-shadow 
 - tambien se le añadio text-decoration: underline
 -  los titulos de noticias se añadio style="text-transform: uppercase;" para dejar los titulos en mayuscula
+- a lo párrafos de cada noticia se le agregó  style="text-transform: capitalize;" para establecer como mayúscula la primera letra dentro de cada uno
