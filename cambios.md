@@ -39,6 +39,7 @@ Css
 
 Noticia 1
 Html
+ - se utilizò otra plantilla
 35.	adicion de imagenes nuevas.
 36.	cambio total en el contenido
 37.	headers
@@ -63,6 +64,7 @@ Se le cambió el color del título de la primera noticia a negro más puro
 Noticia 2
 Html
 cambio total en el contenido
+- se utilizò otra plantilla
 54.	headers
 55.	articles
 56.	etiquetas de encabezado <h2>
@@ -85,6 +87,7 @@ css
 71.	se cambió el color de fuente en noticias2
 Noticia 3
 Html
+se utilizò otra plantilla
 72.	headers
 73.	articles
 74.	etiquetas de encabezado <h2>
