@@ -44,7 +44,7 @@ Html
 36.	cambio total en el contenido
 37.	headers
 38.	articles
-39.	etiquetas de encabezado <h2>
+39.	etiquetas de encabezado <h2
 40.	titulos en el head se añadieron, haciendo referencia a la pagina en donde se está
 41.	Se adhirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
 42.	como etiqueta <u,
@@ -113,7 +113,7 @@ Html
 89.	cambio total en el contenido
 90.	headers
 91.	articles
-92.	etiquetas de encabezado <h2>
+92.	etiquetas de encabezado <h2
 93.	titulos en el head se añadieron, haciendo referencia a la pagina en donde se está
 94.	Se adhirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
 95.	como etiqueta <u,
@@ -135,7 +135,7 @@ Html
 Cambio total en el contenido
 106.	headers
 107.	articles
-108.	etiquetas de encabezado <h2>
+108.	etiquetas de encabezado <h2
 109.	titulos en el head se añadieron, haciendo referencia a la pagina en donde se está
 110.	Se adhirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
 111.	como etiqueta <u,
