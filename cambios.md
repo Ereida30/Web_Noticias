@@ -7,3 +7,6 @@ cambios Html
 - eliminación de parte del codigo de la pagina de incio, por estar demás
 - cambio total en el contenido de todas las paginas
 - Se adirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
+
+cambios css
+Se cambió el color del título a rojo vivo
