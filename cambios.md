@@ -10,3 +10,4 @@ cambios Html
 
 cambios css
 Se cambió el color del título a rojo vivo
+Se le cambió el color del título de la primera noticia a negro más puro
