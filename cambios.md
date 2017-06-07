@@ -41,3 +41,5 @@ Se le cambió el color del título de la primera noticia a negro más puro
 - tambien se le añadio text-decoration: underline
 -  los titulos de noticias se añadio style="text-transform: uppercase;" para dejar los titulos en mayuscula
 - a lo párrafos de cada noticia se le agregó  style="text-transform: capitalize;" para establecer como mayúscula la primera letra dentro de cada uno
+- tambien sangrías con text-indent: 50px;
+- espaciado entre las palabras con letter-spacing: 3px;
