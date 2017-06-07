@@ -12,9 +12,9 @@ Html
 10.	etiquetas de encabezado <h2>
 11.	titulos en el head se añadieron, haciendo referencia a la pagina en donde se está
 12.	Se adhirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
-13.	como etiqueta <u>,
-14.	<strong>,
-15.	<b>
+13.	como etiqueta <u,
+14.	<strong,
+15.	<b
 16.	en la pagina de inicio se agruparon todas las noticias en donde se muestran con informacion breve y
 17.	a su vez se le añadieron enlaces directos a sus respectivas paginas
 18.	los articulos se separaron por parrafos
@@ -47,9 +47,9 @@ Html
 39.	etiquetas de encabezado <h2>
 40.	titulos en el head se añadieron, haciendo referencia a la pagina en donde se está
 41.	Se adhirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
-42.	como etiqueta <u>,
-43.	<strong>,
-44.	<b>
+42.	como etiqueta <u,
+43.	<strong,
+44.	<b
 Css
 Se le cambió el color del título de la primera noticia a negro más puro
 45.	se resalto los titulos de las noticias cambiandole el color por negro y aumentando el font.size por 25px
@@ -67,12 +67,12 @@ cambio total en el contenido
 - se utilizò otra plantilla
 54.	headers
 55.	articles
-56.	etiquetas de encabezado <h2>
+56.	etiquetas de encabezado <h2
 57.	titulos en el head se añadieron, haciendo referencia a la pagina en donde se está
 58.	Se adhirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
-59.	como etiqueta <u>,
-60.	<strong>,
-61.	<b>
+59.	como etiqueta <u,
+60.	<strong,
+61.	<b
 62.	en la noticia 2 se modificó el banner por default y se cambio por una imagen
 -	noticia 2 se añadió un menu para la navegacion entre las otras páginas
 css
@@ -90,12 +90,12 @@ Html
 se utilizò otra plantilla
 72.	headers
 73.	articles
-74.	etiquetas de encabezado <h2>
+74.	etiquetas de encabezado <h2
 75.	titulos en el head se añadieron, haciendo referencia a la pagina en donde se está
 76.	Se adhirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
-77.	como etiqueta <u>,
-78.	<strong>,
-79.	<b>
+77.	como etiqueta <u,
+78.	<strong,
+79.	<b
 80.	la noticia 3 se cambió en totalidad, se añadió etiqueta spam donde se muestra la fecha
 css
 81.	Se le cambió el color del título de la primera noticia a negro más puro
@@ -116,9 +116,9 @@ Html
 92.	etiquetas de encabezado <h2>
 93.	titulos en el head se añadieron, haciendo referencia a la pagina en donde se está
 94.	Se adhirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
-95.	como etiqueta <u>,
-96.	<strong>,
-97.	<b>
+95.	como etiqueta <u,
+96.	<strong,
+97.	<b
 98.	noticia 4 se mezclo estilo de dos plantillas diferentes
 css
 Se le cambió el color del título de la primera noticia a negro más puro
@@ -138,9 +138,9 @@ Cambio total en el contenido
 108.	etiquetas de encabezado <h2>
 109.	titulos en el head se añadieron, haciendo referencia a la pagina en donde se está
 110.	Se adhirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
-111.	como etiqueta <u>,
-112.	<strong>,
-113.	<b>
+111.	como etiqueta <u,
+112.	<strong,
+113.	<b
 
 css
 Se le cambió el color del título de la primera noticia a negro más puro
@@ -163,9 +163,9 @@ cambio total en el contenido
 125.	etiquetas de encabezado <h2>
 126.	titulos en el head se añadieron, haciendo referencia a la pagina en donde se está
 127.	Se adhirieron resaltadores semánticos dentro de cada artículo en las páginas para resaltar la información relevante.
-128.	como etiqueta <u>,
-129.	<strong>,
-130.	<b>
+128.	como etiqueta <u,
+129.	<strong,
+130.	<b
 
 131.	css
 132.	Se le cambió el color del título de la primera noticia a negro más puro
