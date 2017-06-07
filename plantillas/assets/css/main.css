@@ -14,10 +14,14 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font: inherit;
+		font: italic bold 17px/30px Georgia, serif;
 		vertical-align: baseline;
 	}
-
+	.logo {
+		color: Red;
+		font-style: Italic;
+		font-size:15px;
+	}
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -1094,8 +1098,9 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 600;
-		text-transform: uppercase;
-		color: #151514;
+  		text-transform: uppercase;
+ -		color: #888;
+ +		color: #151514;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1635,7 +1640,7 @@
 		#header h1 {
 			font-family: 'Arvo';
 			font-weight: 700;
-			color: #f5270f;
+			color: #ed786a;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
 		}
 
