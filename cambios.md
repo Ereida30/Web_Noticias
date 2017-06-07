@@ -35,3 +35,5 @@ cambios css
 - font-weight:normal se cambio a font-weight:bold
 Se le cambió el color del título de la primera noticia a negro más puro
 - se resalto los titulos de las noticias cambiandole el color por negro y aumentando el font.size por 25px
+- titulo de inicio se le añadió sombras con text-shadow 
+- tambien se le añadio text-decoration: underline
